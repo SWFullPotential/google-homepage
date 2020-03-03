@@ -24,7 +24,7 @@ ul {
     vertical-align: center;
   }
   .logo {
-    padding-top: 175px;
+    padding-top: 160px;
     text-align: center;
   }
   .smaller-image {
@@ -36,7 +36,6 @@ ul {
     width: 30px;
     height: auto;
     border-radius: 50%;
-    opacity: 1;
   }
   .search-field {
     margin-top: 20px;
