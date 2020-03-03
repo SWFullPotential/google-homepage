@@ -1,0 +1,2 @@
+Things to remember when designing html layout. Have in mind how you want to page to look and create classes for each element so when you are creating the css you can easily design each class. 
+Looking at how others have designed their pages (html and css) is a great help to understand better how I can create my own web pages. It helps to look at various pages to understand how they created what they created. 

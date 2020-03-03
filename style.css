@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+  }
+  .nav-left {
+    float: left;
+    margin-left: 14px;
+  }
+  .nav-main {
+    padding: 15px;
+  }
+  .nav-right {
+    float: right;
+    margin-right: 14px;
+  }
+  .apps-icon {
+    vertical-align: -12px;
+  }
+  .account-icon {
+    vertical-align: -12px;
+  }
+  .logo {
+    padding-top: 110px;
+    text-align: center;
+  }
+  
+  
