@@ -30,12 +30,12 @@ ul {
   .smaller-image {
     width: 30px;
     height: auto;
+    border-radius: 50%;
   }
   .smaller-image-account {
     width: 30px;
     height: auto;
     border-radius: 50%;
-    opacity: 1 important;
   }
   .search-field {
     margin-top: 20px;
