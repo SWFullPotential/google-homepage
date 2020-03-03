@@ -36,6 +36,7 @@ ul {
     width: 30px;
     height: auto;
     border-radius: 50%;
+    opacity: 1;
   }
   .search-field {
     margin-top: 20px;
