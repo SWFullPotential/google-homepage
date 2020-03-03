@@ -24,7 +24,7 @@ ul {
     vertical-align: center;
   }
   .logo {
-    padding-top: 110px;
+    padding-top: 175px;
     text-align: center;
   }
   .smaller-image {
@@ -82,7 +82,7 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-sizing: border-box
+    box-sizing: border-box;
   }
   a {
     color: #000000;
