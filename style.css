@@ -22,7 +22,6 @@ ul {
   }
   .account-icon {
     vertical-align: -12px;
-    border-radius: 50%;
   }
   .logo {
     padding-top: 110px;
@@ -31,5 +30,10 @@ ul {
   .smaller-image {
     width: 30px;
     height: auto;
+  }
+  .smaller-image-account {
+    width: 30px;
+    height: auto;
+    border-radius: 50%;
   }
   
